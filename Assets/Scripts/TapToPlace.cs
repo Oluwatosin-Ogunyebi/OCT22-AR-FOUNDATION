@@ -53,7 +53,7 @@ public class TapToPlace : MonoBehaviour
             }
             else
             {
-                spawnedPrefab.transform.position = hitPose.position;
+                //spawnedPrefab.transform.position = hitPose.position;
             }
         }
     }
